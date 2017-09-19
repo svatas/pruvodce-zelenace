@@ -15,7 +15,7 @@
 
 ## Což znamená, že:
 
-### Dílo smíte:
+### Dílo smíte
 
 * __Sdílet__ — rozmnožovat a distribuovat materiál prostřednictvím jakéhokoli média v jakémkoli formátu
 * __Upravit__ — remixovat, změnit a vyjít z původního díla
