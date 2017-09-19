@@ -4,6 +4,12 @@
 
 * Toto je repozitář sloužicí potřebám tvorby příručky pro začínající uživatele redakčního systému Joomla!
 
+## Co je Joomla?
+
+* [Joomla!](https://www.joomla.org/about-joomla.html) je  __Systém pro správu obsahu (Content Management System)__ (CMS) který vám umožní vybudovat internetové stránky či online aplikace.
+* Je to jednoduchá webová aplikace, která ke svému provozu vyžaduje PHP server a nějaký databázový server, typicky MySQL (MariaDB), PostgreSQL nebo Microsoft SQL Server. Kompletní seznam technických specifikací [k nahlédnutí zde](https://downloads.joomla.org/technical-requirements).
+* Joomla! je **svobodný software s otevřeným zdrojovým kódem** šířený pod licencí GNU General Public License verze 2 a vyšší.
+
 ## Kdo je zelenáč?
 
 * Zelenáč je osoba, která se chce naučit pracovat s nějakým programem, ale nemá dostatek zkušeností.
