@@ -10,6 +10,7 @@
 * Důležité je, že se chce něco naučit a chce tomu věnovat nějaký čas, protože si je vědoma, že znalosti a zkušenosti nezíská člověk za 5 minut.
 
 ## Jaká pravidla?
+![Text](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png "CC BY-NC-SA 4.0")
 * Dílo je šířeno pod licencí __Creative Commons__, konkrétně [Uveďte původ-Neužívejte dílo komerčně-Zachovejte licenci 4.0 Mezinárodní](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs) (CC BY-NC-SA 4.0)
 
 ## Což znamená, že:
