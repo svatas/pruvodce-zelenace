@@ -23,8 +23,9 @@ Poskytovatel licence nemůže odvolat tato oprávnění do té doby, dokud dodr�
 
 ### Za těchto podmínek:
 
-* __Uveďte původ__ — Je Vaší povinností uvést autorství, poskytnout s dílem odkaz na licenci a vyznačit Vámi provedené změny. Toho můžete docílit jakýmkoli rozumným způsobem, nicméně nikdy ne způsobem naznačujícím, že by poskytovatel licence schvaloval nebo podporoval Vás nebo Váš způsob užití díla.
-* __Neužívejte dílo komerčně__ — Je zakázáno užívat dílo pro komerční účely.
-* __Zachovejte licenci__ — Pokud budete toto dílo upravovat, pozměňovat nebo na něj navazovat, musíte svoje odvozená díla vystavovat pod stejnou licencí jako původní dílo.
+* ![CC-By](http://mirrors.creativecommons.org/presskit/icons/by.png "CC BY") __Uveďte původ__ — Je Vaší povinností uvést autorství, poskytnout s dílem odkaz na licenci a vyznačit Vámi provedené změny. Toho můžete docílit jakýmkoli rozumným způsobem, nicméně nikdy ne způsobem naznačujícím, že by poskytovatel licence schvaloval nebo podporoval Vás nebo Váš způsob užití díla.
+* ![CC-NC](http://mirrors.creativecommons.org/presskit/icons/nc.png "CC NC") __Neužívejte dílo komerčně__ — Je zakázáno užívat dílo pro komerční účely.
+* ![CC-SA](http://mirrors.creativecommons.org/presskit/icons/sa.png "CC SA") __Zachovejte licenci__ — Pokud budete toto dílo upravovat, pozměňovat nebo na něj navazovat, musíte svoje odvozená díla vystavovat pod stejnou licencí jako původní dílo.
+
 * __Žádná další omezení__ — Nesmíte použít právní omezení nebo účinné technické prostředky ochrany, které by omezovaly ostatní v možnostech poskytnutých touto licencí.
 
