@@ -1,9 +1,8 @@
-# Průvodce softwarem pro zelenáče
+# Redakční systém Joomla! – průvodce problémy zelenáčovými
 
 ## Co je to?
 
-* Toto je repozitář sloužicí potřebám tvorby užitečných uživatelských manuálů k rozličným softwarovým produktům.
-
+* Toto je repozitář sloužicí potřebám tvorby příručky pro začínající uživatele redakčního systému Joomla!
 
 ## Kdo je zelenáč?
 
@@ -28,3 +27,4 @@ Poskytovatel licence nemůže odvolat tato oprávnění do té doby, dokud dodr�
 * __Neužívejte dílo komerčně__ — Je zakázáno užívat dílo pro komerční účely.
 * __Zachovejte licenci__ — Pokud budete toto dílo upravovat, pozměňovat nebo na něj navazovat, musíte svoje odvozená díla vystavovat pod stejnou licencí jako původní dílo.
 * __Žádná další omezení__ — Nesmíte použít právní omezení nebo účinné technické prostředky ochrany, které by omezovaly ostatní v možnostech poskytnutých touto licencí.
+
