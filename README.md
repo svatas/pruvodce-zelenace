@@ -2,7 +2,7 @@
 
 ## Co je to?
 
-* Toto je repozitář sloužicí potřebám tvorby užitečných uživatelských manuálů k rozličným softwarovým produktům.
+* Toto je repozitář sloužicí potřebám tvorby užitečných uživatelských manuálů v českém jazyce k rozličným softwarovým produktům, zvláště kategorie Open source.
 
 
 ## Kdo je zelenáč?
