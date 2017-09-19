@@ -3,6 +3,8 @@
 ## Co je to?
 
 * Toto je repozitář sloužicí potřebám tvorby užitečných uživatelských manuálů v českém jazyce k rozličným softwarovým produktům, zvláště kategorie Open source.
+* Zatím tu je
+  * [Redakční systém Joomla! – průvodce problémy zelenáčovými](https://github.com/svatas/pruvodce-zelenace/tree/joomla-zelenac)
 
 
 ## Kdo je zelenáč?
