@@ -16,7 +16,7 @@
 * Důležité je, že se chce něco naučit a chce tomu věnovat nějaký čas, protože si je vědoma, že znalosti a zkušenosti nezíská člověk za 5 minut.
 
 ## Jaká pravidla?
-* Příručka __Redakční systém Joomla! – průvodce problémy zelenáčovými__, jejímž autorem je Svatopluk Vít, podléhá licenci __Creative Commons__, konkrétně [Uveďte původ-Neužívejte dílo komerčně-Zachovejte licenci 4.0 Mezinárodní](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs) (CC BY-NC-SA 4.0) ![CClicence](https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png "CC BY-NC-SA 4.0")
+* Příručka __Redakční systém Joomla! – průvodce problémy zelenáčovými__, jíž autorem je Svatopluk Vít, podléhá licenci __Creative Commons__, konkrétně [Uveďte původ-Neužívejte dílo komerčně-Zachovejte licenci 4.0 Mezinárodní](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs) (CC BY-NC-SA 4.0) ![CClicence](https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png "CC BY-NC-SA 4.0")
 
 ## Což znamená, že:
 
